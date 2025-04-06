@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 5, 2025, 01_53_42 PM](https://github.com/user-attachments/assets/b9daa5a5-d520-463a-85e7-6257a106154c)# SmartStock
+# SmartStock
 This project focuses on solving a real-world supply chain challenge by implementing AI-powered demand forecasting using open-source tools. Accurate demand prediction is crucial for minimizing waste, reducing storage costs, and improving customer satisfaction. 
 The application utilizes Streamlit for a user-friendly frontend interface and Ollama for local LLM (Language Model) processing. It allows users to upload their datasets, get time-series based demand predictions, and visualize trends interactively. Our notebook-based backend ensures transparency and replicability of all results.
 
